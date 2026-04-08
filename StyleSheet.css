@@ -15,3 +15,8 @@ p1 {
   font-family: Helvetica;
   font-style: 15px;
 }
+
+button {
+  color: white
+  margin-left: 10px;
+}
